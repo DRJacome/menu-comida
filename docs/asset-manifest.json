@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f63a372.css",
+    "main.js": "/static/js/main.d6169b83.js",
+    "static/media/hamburguesa.PNG": "/static/media/hamburguesa.97721b4917d397e6c2fe.PNG",
+    "static/media/melon.PNG": "/static/media/melon.c5b17074d2ffd02b70fd.PNG",
+    "static/media/ensalada.PNG": "/static/media/ensalada.78eff577c9f6a36874a5.PNG",
+    "static/media/pollo.PNG": "/static/media/pollo.f9b9edd97fcd4e810581.PNG",
+    "static/media/helado.PNG": "/static/media/helado.e8d66dae9187a957715b.PNG",
+    "static/media/espaguetis.PNG": "/static/media/espaguetis.0bba20c65e3a70599186.PNG",
+    "static/media/cerveza.PNG": "/static/media/cerveza.4691e5220f1302a2bb59.PNG",
+    "static/media/paella.PNG": "/static/media/paella.0d2820c6962fdc76484e.PNG",
+    "static/media/cafe.PNG": "/static/media/cafe.ce79876303abd8d835b5.PNG",
+    "static/media/tortilla.PNG": "/static/media/tortilla.931f2b09c2681306a7d1.PNG",
+    "static/media/butifarra.PNG": "/static/media/butifarra.98a6e19fa3c1fff47543.PNG",
+    "static/media/logo.webp": "/static/media/logo.c840c7e82dcbaceff974.webp",
+    "static/media/flan.PNG": "/static/media/flan.9d8baca2cb822ab8ed1f.PNG",
+    "static/media/dorada.PNG": "/static/media/dorada.debf1b098a1472d696de.PNG",
+    "static/media/cola.PNG": "/static/media/cola.61aee40bfcbba49257df.PNG",
+    "index.html": "/index.html",
+    "main.9f63a372.css.map": "/static/css/main.9f63a372.css.map",
+    "main.d6169b83.js.map": "/static/js/main.d6169b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f63a372.css",
+    "static/js/main.d6169b83.js"
+  ]
+}
