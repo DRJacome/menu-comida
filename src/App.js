@@ -100,7 +100,10 @@ function App() {
             <h3>Total a pagar: {total} €</h3>
           </div>
         </div>
-      </section >
+      </section>
+      <footer>
+        <p>Idea original: Javier López JAB</p>
+      </footer>
     </>
   );
 }
